@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     {
 
         //There is a central mobile number
-        String phoneNumber = "9599220024";
+        String phoneNumber = "";
         //This is a fixed message corresponding to the only button present right now.
         String message = "This is a dummy message which is being sent just because i clicked a button";
 
